@@ -1,0 +1,6 @@
+@Projeto_EvoSystems_HostAddress = http://localhost:5160
+
+GET {{Projeto_EvoSystems_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
